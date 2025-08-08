@@ -1,0 +1,1 @@
+# lazy-gentoo-installer
