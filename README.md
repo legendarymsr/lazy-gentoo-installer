@@ -20,6 +20,6 @@ An **interactive Bash script** to install Gentoo Linux quickly using **official 
    ```bash
    ping gentoo.org
 ## install
-wget https://raw.githubusercontent.com/legendarymsr/lazy-gentoo-installer/main/gentoo-installer.sh
-chmod +x gentoo-installer.sh wget https://raw.githubusercontent.com/legendarymsr/lazy-gentoo-installer/main/gentoo-installer.sh
+wget https://raw.github.com/legendarymsr/lazy-gentoo-installer/main/gentoo-installer.sh
+chmod +x gentoo-installer.sh wget https://raw.github.com/legendarymsr/lazy-gentoo-installer/main/gentoo-installer.sh
 chmod +x gentoo-installer.sh
